@@ -11,7 +11,7 @@ The AI has been trained for aprox. 500 million steps, which took about 5 days on
 
 To run the web build please visit this link:
 
-https://ey3d.github.io/UnityML-BoatAI/
+https://esmondev.github.io/UnityML-BoatAI/
 
 To run the windows build, got to the releases page, download, unzip, and run \BoatAI_win\BoatAI.exe.
 
